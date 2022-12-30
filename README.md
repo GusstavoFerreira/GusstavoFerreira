@@ -1,17 +1,14 @@
+
 <div align="center"> <h1> Olá👋🏼, Bem-vindo ao meu perfil !</h1>
  <h2>Eu sou o Gustavo✌🏼, trabalho em tempo integral em uma empresa👷🏻‍♂️ Sou Estudante De Engenharia Mecânica🧑🏻‍🎓 e  no meu tempo livre gosto de aprender programação🧑🏻‍💻!
   </h2> 
- 
- <p align="left">
-    Não sei de muita coisa mais to disposto a aprender, quem sabe trabalhar como um programador algum dia.
- </p>
 </div>
 
 
 <div align="center">
   <a href="https://github.com/GusstavoFerreira">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=GusstavoFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusstavoFerreira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GusstavoFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusstavoFerreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -37,13 +34,19 @@
    <img align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   
   ##
-            
+<div align="center"> <h3> Contato </h3>    
 <div align="center"> 
   <a href = "https://wa.me/5511970329649"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "gustavo.ferreira.dos.santos.0796@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-ferreira-4b676625b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>         
+</div>    
+ 
+  <p align="left"> Não sei de muita coisa mais to disposto a aprender, quem sabe trabalhar como um programador algum dia.</p>
   <h2>Obrigado pela visita 🙂.</h2>
+ 
+ 
+ 
+ 
 
 
 
