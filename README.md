@@ -1,6 +1,6 @@
 
 <div align="center"> <h1> Olá👋🏼, Bem-vindo ao meu perfil !</h1>
- <h2>Eu sou o Gustavo✌🏼, trabalho em tempo integral em uma empresa👷🏻‍♂️ Sou Estudante De Engenharia Mecânica🧑🏻‍🎓 e  no meu tempo livre gosto de aprender programação🧑🏻‍💻!
+ <h2>Eu sou o Gustavo✌🏼, trabalho em tempo integral em uma empresa👷, Sou Estudante De Engenharia Mecânica🧑🏻‍🎓 e  no meu tempo livre gosto de aprender programação🧑🏻‍💻!
   </h2> 
 </div>
 
@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/gustavo-ferreira-4b676625b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>    
  
-  <p align="left"> Não sei de muita coisa ainda mais to disposto a aprender, quem sabe trabalhar como um programador algum dia.</p>
+  <p align="left"> Não sei de muita coisa ainda, mais estou aprendendo. Quem sabe trabalhar como  programador algum dia!</p>
   <h2>Obrigado pela visita 🙂.</h2>
  
  
